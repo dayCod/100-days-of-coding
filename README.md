@@ -1,7 +1,6 @@
 # 100 Days of Coding
 
 ## Table of Content
-### List of projects that i've done
 
 | Project Name                | Repository Link                                             | Version  | Minimum Stability  |
 |-----------------------------|-------------------------------------------------------------|----------|--------------------|
